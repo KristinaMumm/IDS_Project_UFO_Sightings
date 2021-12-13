@@ -17,9 +17,10 @@ This project uses the geopandas module, which is a pretty picky module. So in or
  > - conda config --env --set channel_priority strict
  > - conda install python=3 geopandas
 
-Also this project uses Reverse Geocoder module. For insatlling:
+Also this project uses Reverse Geocoder module. For installing:
 > - pip install reverse_geocoder
-
+or
+> - conda install -c conda-forge reverse_geocoder
 
 ### Used graphs
 
