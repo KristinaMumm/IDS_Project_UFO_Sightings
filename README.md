@@ -29,3 +29,5 @@ Most of the graphs are done using the Tableau program. So in order to view them,
 9. **Shapes by hours** - bar graphs, where sightings are categorized by shapes and hours.
 10. **Shapes** - bar graph, where sightings are categorized by shapes.
 11. **Duration in minutes** - bar graph, where sightings are group by range of minutes.
+
+[ Poster ](UFO sightings.pdf)
