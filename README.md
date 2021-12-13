@@ -7,7 +7,7 @@ We had 3 goals in this project
 
 Data is taken from [ Kaggle ](https://www.kaggle.com/mysarahmadbhat/ufo-sightings?fbclid=IwAR39rZKoKOsv4znQwIEdm1BoeK5sMJ83QorBJ7qFSsulW-JIdgQPA051zN4)
 
-[ Poster with results ](https://github.com/KristinaMumm/IDS_Project_UFO_Sightings/blob/2f92d98cd20892a5a351072594d72c2cf066f692/UFO%20sightings.pdf)
+[ Poster with results ](UFO_sightings.pdf)
 
 ### Installation info
 This project uses the geopandas module, which is a pretty picky module. So in order for it to work properly, it is suggested that you create a new conda environment to run projects in. Follow these steps down below in your conda environment to set up a new environment. Additional info can be found [here](https://geopandas.org/en/stable/getting_started/install.html)                                                                                             
