@@ -30,4 +30,4 @@ Most of the graphs are done using the Tableau program. So in order to view them,
 10. **Shapes** - bar graph, where sightings are categorized by shapes.
 11. **Duration in minutes** - bar graph, where sightings are group by range of minutes.
 
-[ Poster ](UFO sightings.pdf)
+[ Poster ](https://github.com/KristinaMumm/IDS_Project_UFO_Sightings/blob/2f92d98cd20892a5a351072594d72c2cf066f692/UFO%20sightings.pdf)
