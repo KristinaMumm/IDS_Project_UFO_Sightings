@@ -10,7 +10,13 @@ This project uses the geopandas module, which is a pretty picky module. So in or
  > - conda config --env --set channel_priority strict
  > - conda install python=3 geopandas
 
-Also, some graphs are done using the Tableau program. So in order to view them, you should have Tableau installed, which can be done [here](https://www.tableau.com/). The file is in the folder "data" with name "Book1.twb". Down below is a short description for each graph:
+Also this project uses Reverse Geocoder module. For insatlling:
+> - pip install reverse_geocoder
+
+
+### Used graphs
+
+Most of the graphs are done using the Tableau program. So in order to view them, you should have Tableau installed, which can be done [here](https://www.tableau.com/). The file is in the folder "data" with name "Book1.twb". Down below is a short description for each graph:
 
 1. **with USA** - sightings across world categorized by countries with USA
 2. **no USA** - sightings across world categorized by countries withou USA
@@ -22,3 +28,4 @@ Also, some graphs are done using the Tableau program. So in order to view them, 
 8. **Records by hours and months** - bar graphs, where sightings are categorized by hours and months.
 9. **Shapes by hours** - bar graphs, where sightings are categorized by shapes and hours.
 10. **Shapes** - bar graph, where sightings are categorized by shapes.
+11. **Duration in minutes** - bar graph, where sightings are group by range of minutes.
