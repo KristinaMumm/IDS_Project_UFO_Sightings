@@ -19,7 +19,9 @@ This project uses the geopandas module, which is a pretty picky module. So in or
 
 Also this project uses Reverse Geocoder module. For installing:
 > - pip install reverse_geocoder
+
 or
+
 > - conda install -c conda-forge reverse_geocoder
 
 ### Used graphs
